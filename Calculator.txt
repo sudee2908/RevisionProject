@@ -3,3 +3,5 @@
 3. Division
 4. Multiplication
 5. log n
+6. Percentage
+7. Square root
